@@ -6,6 +6,7 @@ def reverse_string(str):
 if __name__=="__main__":
     try:
         args = sys.argv
-        print reverse_string(args[1])
+        first_arg = str(args[1])
+        print reverse_string(first_arg)
     except:
         print "Enter a string to reverse."
