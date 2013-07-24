@@ -3,4 +3,11 @@
 * [Nuke Engine](http://nukengine.com/)
 * [pyqtgraph](http://pyqtgraph.org/)
 * [guiqwt](http://code.google.com/p/guiqwt/)
-* [ACQ4 Neurophysiology Acquisition and Analysis System](http://luke.campagnola.me/code/acq4/screenshots.html)
+* [ACQ4 Neurophysiology Acquisition and Analysis System](http://luke.campagnola.me/code/acq4/screenshots.html)  
+
+
+**GUI Programming**
+* [tkinter](http://wiki.python.org/moin/TkInter)
+* GTK
+* QT
+* wxPython
